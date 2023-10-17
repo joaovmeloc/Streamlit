@@ -1,14 +1,10 @@
+streamlit
 pandas
 numpy
 random
 scipy
 seaborn
-streamlit
-pandas
 spotipy
 spotipy.util
-pandas
-openpyxl
 matplotlib.pyplot
 itertools
-ast
